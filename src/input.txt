@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <Name>Product 1</Name>
+        <SteelBrand>Carbon</SteelBrand>
+        <Workshop>Division 1</Workshop>
+        <Parameters>
+            <Parameter>
+                <Name>Hardness</Name>
+                <Value>80</Value>
+                <Unit>HRB</Unit>
+            </Parameter>
+            <Parameter>
+                <Name>Elasticity</Name>
+                <Value>200</Value>
+                <Unit>MPa</Unit>
+            </Parameter>
+        </Parameters>
+        <PhisicsParameters>
+            <PhisicsParameter>
+                <Name>Heat Capacity</Name>
+                <Value>0.5</Value>
+                <Unit>J/(gC)</Unit>
+            </PhisicsParameter>
+            <PhisicsParameter>
+                <Name>Thermal Conductivity</Name>
+                <Value>200</Value>
+                <Unit>W/(mC)</Unit>
+            </PhisicsParameter>
+        </PhisicsParameters>
+        <Fabrica>Customer 1</Fabrica>
+    </product>
+    <product>
+        <Name>Product 2</Name>
+        <SteelBrand>Alloyed</SteelBrand>
+        <Workshop>Division 2</Workshop>
+        <Parameters>
+            <Parameter>
+                <Name>Hardness</Name>
+                <Value>85</Value>
+                <Unit>HRB</Unit>
+            </Parameter>
+            <Parameter>
+                <Name>Elasticity</Name>
+                <Value>250</Value>
+                <Unit>MPa</Unit>
+            </Parameter>
+        </Parameters>
+        <PhisicsParameters>
+            <PhisicsParameter>
+                <Name>Heat Capacity</Name>
+                <Value>0.7</Value>
+                <Unit>J/(gC)</Unit>
+            </PhisicsParameter>
+            <PhisicsParameter>
+                <Name>Thermal Conductivity</Name>
+                <Value>180</Value>
+                <Unit>W/(mC)</Unit>
+            </PhisicsParameter>
+        </PhisicsParameters>
+        <Fabrica>Customer 2</Fabrica>
+    </product>
+</products>

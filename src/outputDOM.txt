@@ -1,0 +1,38 @@
+Product Name: Product 1
+Steel Brand: Carbon
+Workshop: Division 1
+Parameters:
+  - Name: Hardness
+    Value: 80.0
+    Unit: HRB
+  - Name: Elasticity
+    Value: 200.0
+    Unit: MPa
+Phisics Parameters:
+  - Name: Heat Capacity
+    Value: 0.5
+    Unit: J/(gC)
+  - Name: Thermal Conductivity
+    Value: 200.0
+    Unit: W/(mC)
+Customer: Customer 1
+----------------------------
+Product Name: Product 2
+Steel Brand: Alloyed
+Workshop: Division 2
+Parameters:
+  - Name: Hardness
+    Value: 85.0
+    Unit: HRB
+  - Name: Elasticity
+    Value: 250.0
+    Unit: MPa
+Phisics Parameters:
+  - Name: Heat Capacity
+    Value: 0.7
+    Unit: J/(gC)
+  - Name: Thermal Conductivity
+    Value: 180.0
+    Unit: W/(mC)
+Customer: Customer 2
+----------------------------
